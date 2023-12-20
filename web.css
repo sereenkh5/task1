@@ -1,0 +1,14 @@
+.demo{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    
+    border: 4px solid rgb(170, 90, 103);
+}
+
+.vip{
+    color: rgb(74, 74, 129);
+    font-style: italic;
+    
+}
